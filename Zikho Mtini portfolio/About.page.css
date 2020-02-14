@@ -1,0 +1,38 @@
+ *{
+     margin: 0;
+     padding: 0%;
+        
+ }
+ .Education{
+     font-style: oblique;
+     color:rebeccapurple;
+     font-weight: bolder;
+     font-size: x-large;
+     justify-content: space-between;
+     padding-top:100px ;
+
+ }
+.Skills{
+    font-style: oblique;
+    color: saddlebrown;
+    font-weight: bolder;
+    text-align: center;
+    font-size: x-large;
+    justify-content: space-between;
+}
+.Accomplishments{
+
+    
+    font-style: oblique;
+    color: saddlebrown;
+    font-weight: bolder;
+    text-align: left;
+    font-size: x-large;
+    justify-content: space-between;
+
+    }
+      
+
+    body {
+      background-image: url('beach.jpg');
+    }

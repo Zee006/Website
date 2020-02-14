@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(zikho.jpg);
+}
+
+.nav-bar a{
+    justify-content: center;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.name{
+    font-size: x-large;
+    color: rgb(203, 121, 219);
+    font-style: inherit;
+    margin-left:50px ;
+    padding-top: 100px;
+}
+
+.profile-picture{
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.social-media-icons{
+    margin-left: 20px;
+    padding-top: 100px;
+}
+ 
+body {
+    background-image: url('beach.jpg');
+  }
